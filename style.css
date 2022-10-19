@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #f2f2f2;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.main-box {
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 20%;
+    height: 60%;
+    margin-left: 550px;
+    margin-top: 100px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.inputsection{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    height: 30px;
+
+    
+}
+
+.textareasection{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    height: 100px;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;  
+    margin: 10px;
+}
+
+button{
+    background-color: #BCCEF8;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 4px 2px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    border-radius: 50px;
+    width:100%;
+}
+
+button:hover{
+    background-color: #98A8F8;
+}
+
+.span img {
+    width:10px;
+    height:10px;
+}
+
+.footer-content {
+    display: flex;
+    margin-top: 20px;
+}
+
+img {
+    width: 10px;
+    height: 10px;
+    margin-top: 3px;
+    margin-left: 10px;
+}
+
+h4 {
+    margin-left: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+    margin-left: 60px;
+}
+
+#footer-para {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 12px;
+    text-align: center;
+}
